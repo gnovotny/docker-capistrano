@@ -2,11 +2,11 @@
 
 Docker container for capistrano. Please see the [homepage](http://capistranorb.com) for info.
 
-##Supported tags
+## Supported tags
 -   3.7.2, 3, 3.7
 -   3.5.0, 3.5, latest
 
-##Usage
+## Usage
 ```shell
 docker run gruen/capistrano[:version] cap [stage] [deploy]
 ```
