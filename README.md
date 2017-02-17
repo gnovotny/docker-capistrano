@@ -3,7 +3,8 @@
 Docker container for capistrano. Please see the [homepage](http://capistranorb.com) for info.
 
 ##Supported tags
--   Capistrano 3.5.0, latest
+-   3.7.2, 3, 3.7
+-   3.5.0, 3.5, latest
 
 ##Usage
 ```shell
