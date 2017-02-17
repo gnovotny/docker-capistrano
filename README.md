@@ -3,8 +3,8 @@
 Docker container for capistrano. Please see the [homepage](http://capistranorb.com) for info.
 
 ## Supported tags
--   3.7.2, 3, 3.7
--   3.5.0, 3.5, latest
+-   `3.7.2`, `3`, `3.7`
+-   `3.5.0`, `3.5`, `latest`
 
 ## Usage
 ```shell
@@ -32,3 +32,6 @@ docker run --rm \
     gruen/capistrano[:version] \
     cap [commands]
 ```
+
+#### Todos
+-   Add ability to
