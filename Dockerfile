@@ -1,6 +1,3 @@
-####################################################
-# capistrano deploy container
-####################################################
 FROM ruby:2.2-alpine
 
 LABEL maintainer "Darren Green <darren@gruen.site>"
